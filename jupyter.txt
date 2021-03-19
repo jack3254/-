@@ -1,0 +1,11 @@
+conda create --name yahoo python=3.6
+
+activate yahoo
+
+pip install mediapipe
+
+conda install opencv
+
+pip install jupyter notebook
+
+jupyter notebook
